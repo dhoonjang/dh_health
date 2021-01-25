@@ -18,7 +18,7 @@ function App() {
         <div className="content">
           비포 에프터 사진으로 다이어트 자극
           <br />
-          <br />* 배경에 해가 뜨고 있는 듯한 느낌의 디자인
+          <br />* 배경에 해가 뜨고 있는 듯한 느낌의 사진, 디자인
         </div>
       </div>
       <div className="second">
@@ -68,6 +68,8 @@ function App() {
         <div className="content">
           PT에서 알려주게 되는 구체적인 피드백 예시(자주 실수하는 자세, 자극을
           받아야하는 부위 등) 들 슬라이드 뷰
+          <br />
+          <br />* 전문적인 용어보다는 현실적으로 공감될 수 있는 피드백 예시
         </div>
       </div>
       <div className="last">
@@ -77,7 +79,11 @@ function App() {
           자신을 아끼는 가장 정직한 방법
         </h2>
         <h3>02) 1234-1234</h3>
-        <div className="content">헬스장 장소 지도 및 운영시간</div>
+        <div className="content">
+          헬스장 지도 및 운영시간
+          <br />
+          <br />* 카카오톡 문의하기
+        </div>
       </div>
     </div>
   );
