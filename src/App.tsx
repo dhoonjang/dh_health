@@ -18,7 +18,7 @@ function App() {
         <div className="content">
           비포 에프터 사진으로 다이어트 자극
           <br />
-          <br />* 헬스장에서 운영되는 다이어트, 자기관리 프로그램 소개
+          <br />* 배경에 해가 뜨고 있는 듯한 느낌의 디자인
         </div>
       </div>
       <div className="second">
@@ -63,7 +63,7 @@ function App() {
         </h2>
         <h3>
           동훈헬스의 전문 PT 선생님들이 회원님을 세심히 관찰하며 정확한 피드백을
-          합니다!
+          제공합니다!
         </h3>
         <div className="content">
           PT에서 알려주게 되는 구체적인 피드백 예시(자주 실수하는 자세, 자극을
@@ -77,7 +77,7 @@ function App() {
           자신을 아끼는 가장 정직한 방법
         </h2>
         <h3>02) 1234-1234</h3>
-        <div className="content">헬스장 장소를 나타내는 지도 및 운영시간</div>
+        <div className="content">헬스장 장소 지도 및 운영시간</div>
       </div>
     </div>
   );
