@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "aws s3 sync build s3://dh-health/ --public-read"
+    "deploy": "aws s3 sync build s3://dh-health/ --acl public-read"
   },
   "eslintConfig": {
     "extends": [
